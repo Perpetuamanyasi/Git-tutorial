@@ -13,6 +13,10 @@ BMI =Weight/(height*height)
  
 We will use the BMI to determine whether the user is Overweight, Normal or Underweight
 
-Thank you!
+## Results
 
-# We have created a branch called new features
+If BMI > 25 the person is overweight
+
+If BM1 < 18 the person is Underweight
+
+if BMI is 18  to 25 the person is normal
